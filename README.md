@@ -1,19 +1,18 @@
-git clone https://github.com/MakerS0up
+git clone https://github.com/Liberty-Rocketry/... (1 time only)
 
-copy changes into folder
+(copy changes into local repository)
 
 cd into folder
 
-ls > show changes into folder
+ls (show changes into folder)
 
-git status > staging area
+git status (staging area)
 
 git add .
 
 git commit -m "a valid message"
 
-git branch -M lenovo
+git branch -M (Your Name)
 
-git push -u origin lenovo
+git push -u origin (Your Name as above)
 
-*merge in github
